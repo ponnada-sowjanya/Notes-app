@@ -47,12 +47,19 @@ This project was developed as a personal learning project to strengthen backend 
 
 **📂 Project Structure**
 Notes-app/
+
 │
-├── client/        # React frontend
-├── server/        # Node.js backend
+
+├── client/   # React frontend
+
+├── server/   # Node.js backend
+
 │   ├── models/
+
 │   ├── routes/
+
 │   ├── middleware/
+
 │   └── server.js
 
 🔐 Authentication Flow
