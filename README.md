@@ -8,8 +8,7 @@ This project was developed as a personal learning project to strengthen backend 
 
 - 🔐 User Authentication (Register & Login)
 
--
-🔑 JWT-based Authorization
+- 🔑 JWT-based Authorization
 
 - 📝 Create Notes
 
